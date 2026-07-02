@@ -1,7 +1,7 @@
 
   # Student Portfolio Website Design
 
-  This is a code bundle for Student Portfolio Website Design. The original project is available at https://www.figma.com/design/7h3j6xcWzoOh5SHAzzAW9Y/Student-Portfolio-Website-Design.
+  This is a code bundle for Student Portfolio Website Design. The original project is available at https://opera-potato-70947064.figma.site/
 
   ## Running the code
 
